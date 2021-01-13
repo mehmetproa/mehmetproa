@@ -215,7 +215,7 @@ h1, h3 {
 
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 30px !important;
   width: 30px;
   text-align: center;
   text-decoration: none;
